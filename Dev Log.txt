@@ -1,0 +1,22 @@
+Piškvorky Dev Log   ~   od 5.9.2024
+Daniel Rosa
+
+Version 1.0 ~ ~5.8.2024:
+    Funkční hratelná verze. Jedná se pouze o Funkčnost hry.
+    Neznámé datum vydání (Během letních prázdnin 2024).
+
+version 1.1 ~ 4.9.2024:
+    4.9.2024. Jedná se o zlepšení kvality vizuálu hry. Použití knihovny Inquirer a Colorama.
+    Využity Ascii art nápisů.
+    
+version 1.2 ~ 6.9.2024:
+    od 5.9.2024 Beta verze. Začátky práce na primitivním způsobu blokování hráči a obecném stížení
+    hraní, aby se hra nezdála tak monotónní. Dokončeno 6.9.2024. Kontrola blokujícího systému funguje
+    jak horizontálně, vertikálně, tak i diagonálně a pravděpodobnost zablokování hráče lze nastavit 
+    v programu pod názvem 'chance' - Základní hodnota je 70%.
+
+version 1.3 ~ 11.9.2024:
+    od 7.9.2024 Beta verze. Možnost libovolného nastavení hry pro hráče.
+    Nastavení obsahuje možnost změny šance na zablokování hráče počítačem pomocí procent a také
+    volnou možnost nastavení libovolných symbolů jak pro hráče, tak i pro počítač.
+    Verze byla dokončena 11.9.2024, aby byla připravena na Informatiku dalšího dne.
